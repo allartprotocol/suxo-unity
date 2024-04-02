@@ -1,0 +1,262 @@
+{
+    "levels": [
+      {
+        "levelNumber": 1,
+        "costToPlay": 0,
+        "coinsToEarn": 15,
+        "bonusCoins": 20,
+        "enemies": [
+          {"type": "standard", "count": 1, "speed": 1.0}
+        ],
+        "spies": [
+            {"count": 1, "speed": 2.0}
+        ]
+      },
+      {
+        "levelNumber": 2,
+        "costToPlay": 10,
+        "coinsToEarn": 20,
+        "bonusCoins": 30,
+        "enemies": [
+          {"type": "standard", "count": 2, "speed": 1.2}
+        ],
+        "spies": [
+            {"count": 1, "speed": 2.0}
+        ]
+      },
+      {
+        "levelNumber": 3,
+        "costToPlay": 15,
+        "coinsToEarn": 25,
+        "bonusCoins": 40,
+        "enemies": [
+          {"type": "standard", "count": 3, "speed": 1.4},
+          {"type": "fast", "count": 1, "speed": 2.0}
+        ],
+        "spies": [
+            {"count": 1, "speed": 2.0}
+        ]
+      },
+      {
+        "levelNumber": 4,
+        "costToPlay": 20,
+        "coinsToEarn": 30,
+        "bonusCoins": 50,
+        "enemies": [
+          {"type": "standard", "count": 4, "speed": 1.6},
+          {"type": "fast", "count": 1, "speed": 2.2}
+        ],
+        "spies": [
+            {"count": 1, "speed": 2.0}
+        ]
+      },
+      {
+        "levelNumber": 5,
+        "costToPlay": 25,
+        "coinsToEarn": 35,
+        "bonusCoins": 60,
+        "enemies": [
+          {"type": "standard", "count": 5, "speed": 1.8},
+          {"type": "fast", "count": 2, "speed": 2.4}
+        ],
+        "spies": [
+          {"count": 1, "speed": 2.0}
+        ]
+      },
+      {
+        "levelNumber": 6,
+        "costToPlay": 30,
+        "coinsToEarn": 40,
+        "bonusCoins": 70,
+        "enemies": [
+          {"type": "standard", "count": 6, "speed": 2.0},
+          {"type": "fast", "count": 2, "speed": 2.6}
+        ],
+        "spies": [
+          {"count": 1, "speed": 2.2}
+        ]
+      },
+      {
+        "levelNumber": 7,
+        "costToPlay": 35,
+        "coinsToEarn": 45,
+        "bonusCoins": 80,
+        "enemies": [
+          {"type": "standard", "count": 7, "speed": 2.2},
+          {"type": "fast", "count": 3, "speed": 2.8}
+        ],
+        "spies": [
+          {"count": 1, "speed": 2.4}
+        ]
+      },
+      {
+        "levelNumber": 8,
+        "costToPlay": 40,
+        "coinsToEarn": 50,
+        "bonusCoins": 90,
+        "enemies": [
+          {"type": "standard", "count": 8, "speed": 2.4},
+          {"type": "fast", "count": 3, "speed": 3.0}
+        ],
+        "spies": [
+          {"count": 2, "speed": 2.6}
+        ]
+      },
+      {
+        "levelNumber": 9,
+        "costToPlay": 45,
+        "coinsToEarn": 55,
+        "bonusCoins": 100,
+        "enemies": [
+          {"type": "standard", "count": 9, "speed": 2.6},
+          {"type": "fast", "count": 4, "speed": 3.2}
+        ],
+        "spies": [
+          {"count": 2, "speed": 2.8}
+        ]
+      },
+      {
+        "levelNumber": 10,
+        "costToPlay": 50,
+        "coinsToEarn": 60,
+        "bonusCoins": 110,
+        "enemies": [
+          {"type": "standard", "count": 10, "speed": 2.8},
+          {"type": "fast", "count": 4, "speed": 3.4}
+        ],
+        "spies": [
+          {"count": 2, "speed": 3.0}
+        ]
+      },
+      {
+        "levelNumber": 11,
+        "costToPlay": 55,
+        "coinsToEarn": 65,
+        "bonusCoins": 120,
+        "enemies": [
+          {"type": "standard", "count": 11, "speed": 3.0},
+          {"type": "fast", "count": 5, "speed": 3.6}
+        ],
+        "spies": [
+          {"count": 3, "speed": 3.2}
+        ]
+      },
+      {
+        "levelNumber": 12,
+        "costToPlay": 60,
+        "coinsToEarn": 70,
+        "bonusCoins": 130,
+        "enemies": [
+          {"type": "standard", "count": 12, "speed": 3.2},
+          {"type": "fast", "count": 5, "speed": 3.8}
+        ],
+        "spies": [
+          {"count": 3, "speed": 3.4}
+        ]
+      },
+      {
+        "levelNumber": 13,
+        "costToPlay": 65,
+        "coinsToEarn": 75,
+        "bonusCoins": 140,
+        "enemies": [
+          {"type": "standard", "count": 13, "speed": 3.4},
+          {"type": "fast", "count": 6, "speed": 4.0}
+        ],
+        "spies": [
+          {"count": 3, "speed": 3.6}
+        ]
+      },
+      {
+        "levelNumber": 14,
+        "costToPlay": 70,
+        "coinsToEarn": 80,
+        "bonusCoins": 150,
+        "enemies": [
+          {"type": "standard", "count": 14, "speed": 3.6},
+          {"type": "fast", "count": 6, "speed": 4.2}
+        ],
+        "spies": [
+          {"count": 4, "speed": 3.8}
+        ]
+      },
+      {
+        "levelNumber": 15,
+        "costToPlay": 75,
+        "coinsToEarn": 85,
+        "bonusCoins": 160,
+        "enemies": [
+          {"type": "standard", "count": 15, "speed": 3.8},
+          {"type": "fast", "count": 7, "speed": 4.4}
+        ],
+        "spies": [
+          {"count": 4, "speed": 4.0}
+        ]
+      },
+      {
+        "levelNumber": 16,
+        "costToPlay": 80,
+        "coinsToEarn": 90,
+        "bonusCoins": 170,
+        "enemies": [
+          {"type": "standard", "count": 16, "speed": 4.0},
+          {"type": "fast", "count": 7, "speed": 4.6}
+        ],
+        "spies": [
+          {"count": 4, "speed": 4.2}
+        ]
+      },
+      {
+        "levelNumber": 17,
+        "costToPlay": 85,
+        "coinsToEarn": 95,
+        "bonusCoins": 180,
+        "enemies": [
+          {"type": "standard", "count": 17, "speed": 4.2},
+          {"type": "fast", "count": 8, "speed": 4.8}
+        ],
+        "spies": [
+          {"count": 5, "speed": 4.4}
+        ]
+      },
+      {
+        "levelNumber": 18,
+        "costToPlay": 90,
+        "coinsToEarn": 100,
+        "bonusCoins": 190,
+        "enemies": [
+          {"type": "standard", "count": 18, "speed": 4.4},
+          {"type": "fast", "count": 8, "speed": 5.0}
+        ],
+        "spies": [
+          {"count": 5, "speed": 4.6}
+        ]
+      },
+      {
+        "levelNumber": 19,
+        "costToPlay": 95,
+        "coinsToEarn": 105,
+        "bonusCoins": 200,
+        "enemies": [
+          {"type": "standard", "count": 19, "speed": 4.6},
+          {"type": "fast", "count": 9, "speed": 5.2}
+        ],
+        "spies": [
+          {"count": 5, "speed": 4.8}
+        ]
+      },
+      {
+        "levelNumber": 20,
+        "costToPlay": 100,
+        "coinsToEarn": 110,
+        "bonusCoins": 210,
+        "enemies": [
+          {"type": "standard", "count": 20, "speed": 4.8},
+          {"type": "fast", "count": 9, "speed": 5.4}
+        ],
+        "spies": [
+          {"count": 6, "speed": 5.0}
+        ]
+      }
+    ]
+  }
